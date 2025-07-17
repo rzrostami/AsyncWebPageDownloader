@@ -1,0 +1,5 @@
+﻿AsyncWebPageDownloader/obj
+.vs
+AsyncWebPageDownloader/bin
+AsyncWebPageDownloader.Tests/bin
+AsyncWebPageDownloader.Tests/obj
